@@ -38,6 +38,7 @@ Please check the `data` folder.
 ## Reproduction
 
 Please check the [reproducing_scripts](reproducing_scripts.md) for more details.
+For a step-by-step Jupyter workflow, please check [notebooks/difusco_reproduction_guide.ipynb](notebooks/difusco_reproduction_guide.ipynb).
 
 ## Pretrained Checkpoints
 
