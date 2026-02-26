@@ -39,6 +39,7 @@ Please check the `data` folder.
 
 Please check the [reproducing_scripts](reproducing_scripts.md) for more details.
 For a step-by-step Jupyter workflow, please check [notebooks/difusco_reproduction_guide.ipynb](notebooks/difusco_reproduction_guide.ipynb).
+For reproducing the ER-[700-800] MIS results, please check [notebooks/er_mis_reproduction.ipynb](notebooks/er_mis_reproduction.ipynb).
 
 ## Pretrained Checkpoints
 
